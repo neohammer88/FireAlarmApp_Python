@@ -1,2 +1,2 @@
 # FireAlarmApplication
-Android Mobile App for Fire Alarm using IOT(Smoke sensor &amp; Raspberry Pi)
+Android Mobile App for Fire Alarm with IOT facilities(Smoke sensor and Raspberry Pi)
